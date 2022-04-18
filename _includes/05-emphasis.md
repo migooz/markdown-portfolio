@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Here you go:
+1. _mama_
+2. **papa**
+3. ___aunt___
